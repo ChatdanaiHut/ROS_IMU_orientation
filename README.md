@@ -1,4 +1,4 @@
-Phidgets drivers for ROS
+ROS_IMU_orientation
 ========================
 
 Overview
